@@ -1,1 +1,9 @@
 /* TODO: secondary button, Vy  */
+.btn-secondary {
+  background-color: #6C757D;
+  font-family: sans-serif;
+  padding: 10px 15px ;
+  border: none;
+  color: #F5F2F2;
+  border-radius: 5px;
+}
